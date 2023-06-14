@@ -39,9 +39,9 @@ The CNN was implemented using the Keras API and is described in detail in the pr
 
 ### Built With
 
-* [![Keras](https://img.shields.io/badge/keras-d10000?style=for-the-badge&logo=keras&logoColor=ffffff)](https://keras.io/)
-* [![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://numpy.org/)
-* [![sklearn](https://img.shields.io/badge/sklearn-f89a36?style=for-the-badge&logo=scikitlearn&logoColor=ffffff)](https://scikit-learn.org/stable/)
+* [![Keras][keras-badge]][keras]
+* [![NumPy][numpy-badge]][numpy]
+* [![sklearn][sklearn-badge]][sklearn]
 
 
 
@@ -74,4 +74,10 @@ This dataset is a modified version of the Emotion Detection dataset found on [Ka
 
 
 <!-- MARKDOWN LINKS -->
-[contributors-badge]: https://img.shields.io/badge/Contributors-5-44cc11?style=for-the-badge
+[contributors-badge]: https://img.shields.io/badge/Contributors-2-44cc11?style=for-the-badge
+[keras-badge]: https://img.shields.io/badge/keras-d10000?style=for-the-badge&logo=keras&logoColor=ffffff
+[keras]: https://keras.io/
+[numpy-badge]: https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff
+[numpy]: https://numpy.org/
+[sklearn-badge]: https://img.shields.io/badge/sklearn-f89a36?style=for-the-badge&logo=scikitlearn&logoColor=ffffff
+[sklearn]: https://scikit-learn.org/stable/
