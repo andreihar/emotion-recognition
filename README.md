@@ -4,7 +4,7 @@
 
 
 <!-- PROJECT SHIELDS -->
-[![Contributors](https://img.shields.io/badge/Contributors-2-44cc11?style=for-the-badge)](https://circuitverse.org/slack)
+![Contributors][contributors-badge]
 
 
 
@@ -70,3 +70,8 @@ This dataset is a modified version of the Emotion Detection dataset found on [Ka
 
 - Andrei Harbachov
 - Shane Eastwood
+
+
+
+<!-- MARKDOWN LINKS -->
+[contributors-badge]: https://img.shields.io/badge/Contributors-5-44cc11?style=for-the-badge
