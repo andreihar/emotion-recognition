@@ -18,6 +18,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#run">Run</a></li>
     <li><a href="#data">Data</a></li>
     <li><a href="#contributors">Contributors</a></li>
   </ol>
