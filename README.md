@@ -48,7 +48,7 @@ The CNN was implemented using the Keras API and is described in detail in the pr
 <!-- RUN -->
 ## Run
 
-Open the notebook using your choice software in a terminal or command window by navigating to the top-level project directory, `EmotionRecognition`. For example, if the software is Jupyter Notebook:
+Open the notebook using your choice software in a terminal or command window by navigating to the top-level project directory, `emotion-recognition`. For example, if the software is Jupyter Notebook:
 
 ```bash
 jupyter notebook emotion_recognition.ipynb
