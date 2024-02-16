@@ -1,10 +1,27 @@
-<!-- PROJECT TITLE -->
+<!-- PROJECT LOGO -->
+<div align="center">
+  <a href="https://github.com/andreihar/emotion-recognition">
+    <img src="readme/logo.svg" alt="Logo" width="80" height="80">
+  </a>
+  
 # Emotion Recognition
 
 
 
 <!-- PROJECT SHIELDS -->
 ![Contributors][contributors-badge]
+
+**Short**
+
+Long.
+
+
+
+</div>
+
+
+
+---
 
 
 
@@ -34,8 +51,6 @@ This is the final project created for the Spring semester of 2023 course in Intr
 The project is a Convolutional Neural Network (CNN) model architecture that classifies human facial emotions into one of the 7 categories. During the project development iterative process, many different machine learning ideas were tested and evaluated based on the performance metrics.
 
 The CNN was implemented using the Keras API and is described in detail in the project notebook.
-
-
 
 ### Built With
 
@@ -68,12 +83,13 @@ This dataset is a modified version of the Emotion Detection dataset found on [Ka
 <!-- CONTRIBUTION -->
 ## Contributors
 
-- Andrei Harbachov
-- Shane Eastwood
+- Andrei Harbachov ([Github][andrei-github] · [LinkedIn][andrei-linkedin])
+- Shane Eastwood ([Github][shane-github] · [LinkedIn][shane-linkedin])
 
 
 
 <!-- MARKDOWN LINKS -->
+<!-- Badges and their links -->
 [contributors-badge]: https://img.shields.io/badge/Contributors-2-44cc11?style=for-the-badge
 [keras-badge]: https://img.shields.io/badge/keras-d10000?style=for-the-badge&logo=keras&logoColor=ffffff
 [keras]: https://keras.io/
@@ -81,3 +97,9 @@ This dataset is a modified version of the Emotion Detection dataset found on [Ka
 [numpy]: https://numpy.org/
 [sklearn-badge]: https://img.shields.io/badge/sklearn-f89a36?style=for-the-badge&logo=scikitlearn&logoColor=ffffff
 [sklearn]: https://scikit-learn.org/stable/
+
+<!-- Socials -->
+[andrei-linkedin]: https://www.linkedin.com/in/andreihar/
+[andrei-github]: https://github.com/andreihar
+[shane-linkedin]: https://www.linkedin.com/in/shane-eastwood-3549479b/
+[shane-github]: https://github.com/sjeastwood
