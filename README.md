@@ -11,9 +11,9 @@
 <!-- PROJECT SHIELDS -->
 ![Contributors][contributors-badge]
 
-**Short**
+**CNN model for classifying facial emotions into seven categories using Keras**
 
-Long.
+A deep learning model for facial emotion classification. This Keras-based project includes a CNN architecture and pre-trained weights for quick testing on custom images.
 
 
 
